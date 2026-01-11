@@ -167,12 +167,12 @@ Project overview, research questions, methodology, and key findings
 - Sumer_Analytics_Competition.ipynb
 Complete data cleaning, feature engineering, exploratory analysis, and modeling workflow
 
-- Exploratory_Findings.md
+- Exploratory_Findings.pdf
 Written summaries of exploratory analysis by position group
 
-- Opportunity and Production Model Findings.md
+- Opportunity and Production Model Findings.pdf
 Written summaries of regression and classification model results
 
-- Sumer 2026 Analytics Competition Presentatiom
+- Sumer 2026 Analytics Competition Presentation.pdf
 Final Sumer 2026 Analytics Competition presentation deck
 
