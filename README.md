@@ -161,18 +161,18 @@ College résumé data explains **group-level tendencies**, but has limited power
 ---
 
 ## Repository Structure
-- README.md
+- README.md:
 Project overview, research questions, methodology, and key findings
 
-- Sumer_Analytics_Competition.ipynb
+- Sumer_Analytics_Competition.ipynb:
 Complete data cleaning, feature engineering, exploratory analysis, and modeling workflow
 
-- Exploratory_Findings.pdf
+- Exploratory_Findings.pdf:
 Written summaries of exploratory analysis by position group
 
-- Opportunity and Production Model Findings.pdf
+- Opportunity and Production Model Findings.pdf:
 Written summaries of regression and classification model results
 
-- Sumer 2026 Analytics Competition Presentation.pdf
+- Sumer 2026 Analytics Competition Presentation.pdf:
 Final Sumer 2026 Analytics Competition presentation deck
 
