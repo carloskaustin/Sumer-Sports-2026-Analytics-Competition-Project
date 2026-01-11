@@ -54,7 +54,7 @@ Analyses are conducted **by position group** to account for role differences and
 
 To compare player performance across seasons and positions, **custom production scores** were constructed for both college and NFL data. Because each position contributes differently on the field, production scores were calculated **separately by position group**, using key statistics relevant to each role. This allows performance to be summarized into a single continuous metric while preserving positional context.
 
-The guiding principle was to reward **impactful plays** (yards gained, touchdowns, pressures, interceptions, coverage efficiency) while maintaining consistency across datasets.
+The guiding principle was to reward **impactful plays** (yards gained, touchdowns, sacks, pressures, interceptions, coverage efficiency) while maintaining consistency across datasets.
 
 ### Offensive Positions
 
@@ -137,11 +137,6 @@ Linear regression models were used to assess whether college résumé characteri
 - Early NFL opportunity (rookie snaps)
 - Rookie-year production (conditional on opportunity)
 
-### Classification Models (Experimental)
-Binary classification models were tested to determine whether college features could identify:
-- `high_opportunity`: Players in the top 70th percentile of rookie snaps within a position group
-- `high_producer`: Players in the top 70th percentile of rookie production within a position group
-
 These models evaluated whether reframing outcomes as threshold-based classifications improved predictability.
 
 ---
@@ -157,7 +152,7 @@ These models evaluated whether reframing outcomes as threshold-based classificat
 ### Modeling Results
 - Early NFL opportunity (snaps) is difficult to predict across positions, reflecting the influence of depth charts, coaching decisions, scheme fit, and injuries.
 - Rookie production is more predictable once playing time is accounted for, particularly for WR/TE and DL groups.
-- Transfer status primarily influences **early opportunity**, not **on-field efficiency** once players see the field.
+- Transfer status primarily correlates with **early opportunity**, not **on-field efficiency** once players see the field.
 - Classification models showed limited ability to predict which individual players would become high-opportunity or high-production rookies.
 
 ### Core Insight
