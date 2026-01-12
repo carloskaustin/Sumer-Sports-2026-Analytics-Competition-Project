@@ -173,6 +173,6 @@ Written summaries of exploratory analysis by position group
 - Opportunity and Production Model Findings.pdf:
 Written summaries of regression and classification model results
 
-- Sumer 2026 Analytics Competition Presentation.pdf:
+- CA Sumer 2026 Analytics Competition Presentation.pdf:
 Final Sumer 2026 Analytics Competition presentation deck
 
