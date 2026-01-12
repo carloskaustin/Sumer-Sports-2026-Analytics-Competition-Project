@@ -167,7 +167,7 @@ Project overview, research questions, methodology, and key findings
 - Sumer_Analytics_Competition.ipynb:
 Complete data cleaning, feature engineering, exploratory analysis, and modeling workflow
 
-- Exploratory_Findings.pdf:
+- Exploratory Findings.pdf:
 Written summaries of exploratory analysis by position group
 
 - Opportunity and Production Model Findings.pdf:
